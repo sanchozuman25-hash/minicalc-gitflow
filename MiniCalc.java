@@ -1,0 +1,4 @@
+public class MiniCalc {
+    public static int add(int a, int b) { return a + b; }
+    // TODO: implement subtract
+}
